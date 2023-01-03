@@ -3,12 +3,11 @@
 ################################################################################
 
 /src/Api/Api/bin
-/src/Api/.vs/Api
-/src/Api/Api/obj
+src/Api/Api/obj
 /src/Api/Api/Controllers/MatchController.cs
 *.user
 /src/Api/BusinessLogic/bin
 /src/Api/BusinessLogic/obj
 /src/Api/Core/bin
 /src/Api/Core/obj
-/src/Api/.vs/ProjectEvaluation
+/src/Api/.vs
