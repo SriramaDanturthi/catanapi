@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Api/Api/bin/Debug/net7.0
+/src/Api/.vs/Api
+/src/Api/Api/obj
+/src/Api/Api/Controllers/MatchController.cs
+*.user
